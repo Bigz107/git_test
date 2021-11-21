@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    color:crimson;
+    font-size: 8em;
+}
+p{
+    align-items: center;
+    justify-content: center;
+    font-family: ' Sofia Times New Roman', Times, serif;
+    font-size: 2em;
+    font-weight: bolder;
+    background-color: blueviolet;
+    color: cornsilk;
+}
+
